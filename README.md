@@ -1,5 +1,8 @@
-- 👋 Hola, soy @ Alejok0 pero mi nombre real es Alejandro
-- 👀 Estoy interesado en aprender mientras me sea posible sobre Java, Python y JavaScript
-- 🌱 Actualmente estoy aprendiendo programacion en escritorio, sin embargo me gusta la programción BackEnd
-- 📫 Cómo contactarme:
-          Discord: Alejok0#1474
+### Hola, Soy Alejandro, o mejor conocido como ALejok0 👋
+
+## ¡Soy estudiante y linuxero!
+- 🔭 Acabo de meterme de lleno en el mundo de la programación
+- 🌱 Actualmente estoy aprendiendo de todo 🤣
+- 👯 Estoy intentando dominar los lenguajes que actualmente conozco
+- 🥅 Objetivos para 2021-2022: Contribuir más a los proyectos de código abierto
+- ⚡ Dato curioso: Me gustan los cubos de Rubik, los videojuegos y la música 
